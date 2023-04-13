@@ -103,5 +103,3 @@ To run the project, the user needs to execute the project.py file. The screen ou
 
 
 
-
-Regenerate response
